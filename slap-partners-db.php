@@ -14,9 +14,6 @@ Version: 1.0
 
 
 
-//store settings on a global variable
-
-
 /***************************
 * includes
 ***************************/
